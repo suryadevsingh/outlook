@@ -1,6 +1,6 @@
 # Outlook Clone
 ## Adaptive layout  
-##  neumorphic design
+##  Neumorphic design
 
 # Live
 
