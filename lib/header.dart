@@ -42,12 +42,12 @@ class Header extends StatelessWidget {
           if (Responsive.isDesktop(context))
             IconButton(
               tooltip: "Printer",
-              icon:Icon(CupertinoIcons.printer),
+              icon: Icon(CupertinoIcons.printer),
               onPressed: () {},
             ),
           IconButton(
             tooltip: "Markup",
-            icon:  Icon(CupertinoIcons.bookmark),
+            icon: Icon(CupertinoIcons.bookmark),
             onPressed: () {},
           ),
           IconButton(
