@@ -1,6 +1,7 @@
 # Outlook Clone
 ## Adaptive layout  
 ##  Neumorphic design
+### Show some 🌟 and ❤️ the repo to support the project
 
 # Live
 
